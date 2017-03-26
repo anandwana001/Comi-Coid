@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Comicoid</string>
+    <string name="title_activity_main2">Main2Activty</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_char">Characters</string>
+    <string name="nav_com">Comics</string>
+    <string name="nav_ev">Events</string>
+    <string name="nav_ser">Series</string>
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Characters</item>
+        <item>Comics</item>
+        <item>Events</item>
+        <item>Series</item>
+    </string-array>
+
+    <string name="activity_title_about_us">About Us</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

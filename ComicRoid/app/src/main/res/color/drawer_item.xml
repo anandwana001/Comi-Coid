@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--state is enabled and checked-->
+    <item android:color="#8E0E00"  android:state_enabled="true" android:state_checked="true" />
+    <!--state is enabled and not checked-->
+    <item android:color="#000" android:state_enabled="true" android:state_checked="false" />
+    <!--state (menu item) is disabled -->
+    <item android:state_enabled="false" android:color="#d3d3d3"  />
+</selector>
